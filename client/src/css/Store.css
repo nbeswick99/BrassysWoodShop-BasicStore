@@ -1,0 +1,7 @@
+.products{
+  flex-direction: row;
+  list-style: none;
+}
+.wrapper {
+  padding: 5em;
+}

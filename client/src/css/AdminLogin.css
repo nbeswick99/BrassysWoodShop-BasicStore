@@ -1,0 +1,33 @@
+.loginWrapper {
+  height: 100%;
+}
+.flexGrow{
+  flex-grow: 1;
+}
+.right{
+  background-color: #F7931E;
+  flex: 1;
+  height: 100%;
+  box-sizing: border-box;
+}
+.left{
+  flex: 1;
+}
+.form{
+  min-width: 25vw;
+  padding: 2rem;
+}
+.loginButton{
+  color: black;
+  background-color: #C69C6D;
+  font-size: 1rem;
+  border: none;
+  padding: .5rem;
+  box-shadow: 3px 3px 3px black;
+  border-radius: .5rem .5rem;
+  max-width: 10rem;
+}
+.container {
+  height: 100%;
+  overflow:hidden;
+}

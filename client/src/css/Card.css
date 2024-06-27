@@ -1,0 +1,27 @@
+.listingImg{
+  max-height: 15em;
+  max-width: 13em;
+  min-width: 10em;
+  min-height: 15em;
+  object-fit: cover;
+  object-position: center;
+}
+.border{
+  border: 2px solid black;
+  padding-bottom: 1em;
+}
+.title{
+  font-size: 20px;
+}
+.price {
+  font-size: 16px
+}
+.addToCart{
+  color: white;
+  background-color:  #401d01;
+  border: none;
+  padding: .5rem;
+  box-shadow: 3px 3px 3px black;
+  border-radius: .5rem .5rem;
+  margin-right: .5rem;
+}

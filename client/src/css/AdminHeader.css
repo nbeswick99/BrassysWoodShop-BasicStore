@@ -1,0 +1,20 @@
+/* used for both of the Admin header components */
+
+.fixed{
+  position: sticky;
+  top: 0px;
+  z-index: 10;
+  box-shadow: 0px 2px 2px black;
+  height: 5vh;
+  box-sizing: border-box;
+}
+.headerSignedOut{
+  background-color: #401d01;
+  color: white;
+  padding: .5rem;
+}
+.headerSignedIn{
+  background-color: #F7931E;
+  color: black;
+  padding: .5rem;
+}

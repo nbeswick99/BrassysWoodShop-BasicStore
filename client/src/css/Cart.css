@@ -1,0 +1,40 @@
+.img{
+  max-height: 10em;
+  max-width: 10em;
+  min-width: 10em;
+  min-height: 10em;
+  object-fit: cover;
+  object-position: center;
+}
+.checkOutDiv {
+  font-size: 30px;
+  border: solid 4px black;
+  max-height: 20vh;
+}
+.cartWrapper{
+    min-width: 75%;
+    border-top: 4px solid black;
+    padding-top: 1em;
+    padding-bottom: 1em
+}
+.border {
+  border: solid 4px Black
+}
+.removeButton{
+  color: white;
+  background-color:  #401d01;
+  border: none;
+  padding: .5rem;
+  box-shadow: 3px 3px 3px black;
+  border-radius: .5rem .5rem;
+  margin-right: .5rem;
+}
+.checkoutButton{
+  color: black;
+  background-color: #C69C6D;
+  font-size: 2rem;
+  border: none;
+  padding: .5rem;
+  box-shadow: 3px 3px 3px black;
+  border-radius: .5rem .5rem;
+}

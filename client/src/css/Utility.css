@@ -1,0 +1,60 @@
+/* common classes between components and views mostly to do with flex*/
+
+.flex{
+  display: flex
+}
+.flex1{
+  flex: 1;
+}
+.flex3{
+  flex: 3;
+}
+.col{
+  flex-direction: column;
+}
+.justifyCenter{
+  justify-content: center;
+}
+.justifyAround{
+  justify-content: space-around;
+}
+.justifyBetween{
+  justify-content: space-between;
+}
+.justifyEnd{
+  justify-content: flex-end;
+}
+.alignCenter {
+  align-items: center;
+}
+
+.alignEnd{
+  align-items: end;
+}
+.gap1{
+  gap: .5em;
+}
+.gap2{
+  gap: 1em;
+}
+.gap3{
+  gap: 1.5em;
+}
+.gap4{
+  gap: 2em;
+}
+.m3{
+  margin: 3em;
+}
+.mT1 {
+  margin-top: 1em;
+}
+.checkoutMargin{
+  margin-top: 48px;
+}
+.mT2 {
+  margin-top: 2em;
+}
+.mT3 {
+  margin-top: 3em;
+}

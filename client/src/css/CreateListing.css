@@ -1,0 +1,32 @@
+.formListings{
+  min-width: 50vw;
+  padding: 5em;
+  font-size: 25px;
+}
+.linkDiv{
+  font-size: 30px;
+  border: solid 4px black;
+  max-height: 30vh;
+}
+.link{
+  text-decoration: none;
+  color: black;
+}
+
+.border{
+  border: solid 4px black;
+}
+
+.createButton{
+  color: white;
+  background-color: #401d01;
+  font-size: 2rem;
+  border: none;
+  padding: .5rem;
+  box-shadow: 3px 3px 3px black;
+  border-radius: .5rem .5rem;
+}
+
+input{
+  min-width: 50%
+}

@@ -1,0 +1,39 @@
+.splashWrapper {
+  width: 100vw;
+}
+.splashImg{
+  min-width: 100%;
+  max-height: 30rem;
+  object-fit: cover;
+  object-position: center;
+}
+.button1{
+  background-color: #C69C6D;
+  min-width: 100%;
+  min-height: 5rem;
+  border: none;
+  position: relative;
+  bottom: 10rem;
+  font-size: 3rem;
+}
+p {
+  font-size: 2rem
+}
+.categoryImg{
+  max-height: 20em;
+  max-width: 20em;
+  min-width: 20em;
+  min-height: 20em;
+  object-fit: cover;
+  object-position: center;
+}
+
+.button2{
+  background-color: #C69C6D;
+  max-width: 100%;
+  min-height: 3rem;
+  border: none;
+  position: relative;
+  bottom: 5rem;
+  font-size: 2rem;
+}
